@@ -1,0 +1,76 @@
+
+.topnav {
+    background-color: rgba(0,0,0,0.5);
+    
+    border-radius: 15px;
+                -webkit-border-radius: 15px;
+                -o-border-radius: 15px;
+                -moz-border-radius: 15px;
+                color: white;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  height: 25px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: center;
+}
+* {
+
+
+  box-sizing: border-box;
+}
+body{
+	background-image: url(https://www.theindiaforum.in/sites/default/files/field/image/2019/10/01/Ramkumar%20Radhakrishnan%2C%20Wikimedia-1569929663.jpeg);
+	background-size: cover;
+}
+header
+{
+	width: : :80px;
+	
+	box-shadow: 0 0 10px #000;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	padding-right: 30px;
+	position: relative;
+}
+ul li{
+	display: inline;
+	list-style: none;
+}
+ul li a{
+	color: rgb(0,0,0);
+	padding: 0px,0px,0px,20px;
+	font-size: 22px;
+}
+.eldora{
+	
+	padding-top: 50px;
+	margin-left: 300px;
+}
+p{
+	font-size: 18px;
+}
